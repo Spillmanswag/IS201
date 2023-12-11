@@ -1,0 +1,58 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lightslategray;
+    color:rgb(15, 15, 16)
+}
+a:visited{color: rgb(201, 147, 47);}
+a:hover{font-size: large; color: black;}
+.riz{
+    font-family: sans-serif, 'comic sans', wingdings, engravers, serif;
+}
+.swag{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(245, 242, 242); 
+}
+.common{
+    border: 4px solid rgb(11, 7, 11);
+    background-color: lightslategray;
+    padding: 5px;
+    position: absolute;
+}
+.footer{
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+.header{
+    font-size: xx-large;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    text-align: center;
+}
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+}
+.mainbody {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+}
+.rightmenu {
+    font-style: italic;
+    text-align: right;
+}
+.bold{
+    font-weight: bold;
+}
+li {font-weight: normal;}
+.homepg{
+    background-image: url('../Desktop/Ocean.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: 150%;
+}
